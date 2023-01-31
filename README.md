@@ -1,12 +1,8 @@
 ## PHP-HTML5-Videochat / Live Streaming - Standalone PHP
 
-[Live Demo: PHP HTML5 Videochat / Live Streaming: Broadcast & Playback](https://demo.videowhisper.com/html5-videochat-php/)
-
 ![PHP Live Streaming Webcam](/snapshots/h5a-playback.jpg)
 
-
 Before installing, test the simple setup in the live demo:
-[PHP HTML5 Videochat - Live Demo](https://demo.videowhisper.com/html5-videochat-php/)
 
 This edition showcases streaming from 1 broadcaster to multiple viewers and chat.
 This plain php edition includes code and minimal scripts to embed a HTML5 Videochat app and test/showcase some features. This edition is for integrating/using application with own scripts/framework.
@@ -36,7 +32,7 @@ For a complete implementation of advanced capabilities, see [Turnkey HTML5 Video
 Warning: some of these features are not active/implemented in this simplified edition, but can be enabled as in turnkey site edition.
 
 ## Installation Instructions
-Before installing, make sure your hosting environment meets all [requirements](https://videowhisper.com/?p=Requirements) including the Wowza SE as HTML5 WebRTC streaming relay. Production implementations should also involve Session Control for security and website integration (like list of live channels).
+Before installing, make sure your hosting environment meets all [requirements] including the Wowza SE as HTML5 WebRTC streaming relay. Production implementations should also involve Session Control for security and website integration (like list of live channels).
   
  1. If you don't use a [turnkey webrtc relay streaming hosting](https://webrtchost.com/hosting-plans/), configure WebRTC and SSL with Wowza SE.
  2. Deploy files to your web installation location. (Example: yoursite.domain/html5-videochat/)
@@ -60,18 +56,4 @@ Scripts also contain comments for clarifications/suggestions.
 
 This is a simple setup showcasing easy app deployment and integration with other PHP scripts. 
 For a quick setup, see [VideoWhisper Turnkey Stream Hosting Plans](https://webrtchost.com/hosting-plans/) that include requirements for all features and free installation.
-
-### VideoWhisper HTML5 Project Demos
- * [Video Call - HTML5 Videochat - Standalone](https://demo.videowhisper.com/videocall-html5-videochat-php/)
- * [Live Streaming - HTML5 Videochat - Standalone](https://demo.videowhisper.com/html5-videochat-php/)
- * [Cam/Mic Recorder HTML5 - Standalone](https://demo.videowhisper.com/cam-recorder-html5-video-audio/)
- * [PaidVideochat Turnkey Site](https://paidvideochat.com/demo/)
-
- ### VideoWhisper HTML5 Project Downloads
- * [Video Call - HTML5 Videochat - GitHub](https://github.com/videowhisper/VideoCall-HTML5-Videochat-PHP)
- * [Live Streaming - HTML5 Videochat - GitHub](https://github.com/videowhisper/HTML5-Videochat-PHP)
- * [Cam/Mic Recorder HTML5 - GitHub](https://github.com/videowhisper/Cam-Recorder-HTML5-Video-Audio)
- * [PaidVideochat Turnkey Site - WordPress](https://wordpress.org/plugins/ppv-live-webcams/)
- 
-For a free consultation, [Contact VideoWhisper Technical Support](https://videowhisper.com/tickets_submit.php).
 
