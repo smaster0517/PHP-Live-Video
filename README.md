@@ -1,4 +1,4 @@
-## PHP Live Streaming - Standalone PHP
+## PHP Live Streaming
 
 Before installing, test the simple setup in the live demo:
 
