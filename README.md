@@ -1,6 +1,4 @@
-## PHP-HTML5-Videochat / Live Streaming - Standalone PHP
-
-![PHP Live Streaming Webcam](/snapshots/h5a-playback.jpg)
+## PHP Live Streaming - Standalone PHP
 
 Before installing, test the simple setup in the live demo:
 
